@@ -1,0 +1,12 @@
+ID
+Evnironment
+Title
+Steps
+Expected Result
+Actual Result
+Attachment
+Link
+License
+Role
+Bug Started
+Severity

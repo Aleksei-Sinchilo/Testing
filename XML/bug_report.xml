@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bugReport>
+  <summary>Sorting companies by alphabet is reseted only on current page in the list of "Companies"in widget "Economical calendar" in tab bars [Earnings], [Dividends], [Splts], [IPO], [Holidays]</summary>
+  <steps>
+    <firsStep>Navigate to capital.com</firstStep>
+    <secondStep>Hower over menu section [News and Analysis]</secondStep> 
+    <thidStep>Click item [Economic Calendar]</thirStep>
+    <fourthStep>Click tabs  [Earnings]/[Dividends]/[Splts/[IPO] / [Holidays] in tab bars</fourthStep>
+    <fifthStep>Click sortbutton [Company]</fifthStep>
+    <sixthStep>Click any paginator</sixthStep>
+  </steps>
+  <expectedResult>All companies from all pages are sorted by alpabet </expectedResult>
+  <actualResult>Companies are sorted by alpabet only from current page</actualResult>
+  <severity>Minor</severity>
+</bugReport>

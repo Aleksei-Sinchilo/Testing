@@ -1,0 +1,7 @@
+1) Terminal
+2) Devtools
+3) Postman
+4) SQL
+5) JSON6) XML
+7) Charles
+8) Fiddler
